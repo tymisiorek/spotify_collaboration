@@ -26,3 +26,4 @@ build/
 *.tmp
 
 /spotify_venv
+/data_handling/data
